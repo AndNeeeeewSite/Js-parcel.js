@@ -1,4 +1,4 @@
-formData = {
+let formData = {
 
 }
 export default function send(formData1) {

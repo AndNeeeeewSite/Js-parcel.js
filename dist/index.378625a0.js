@@ -1,0 +1,2 @@
+formData={};const e=document.querySelector(".name-input"),t=document.querySelector(".mail-input"),a=document.querySelector(".mess-input");document.querySelector(".feedback").addEventListener("submit",function(l){l.preventDefault();let u=e.value,o=t.value,n=a.value;console.log(`Name: ${u} Mail: ${o} Message: ${n}`),formData={name:u,mail:o,message:n},console.log("Data write"),alert("Successfully")});
+//# sourceMappingURL=index.378625a0.js.map
